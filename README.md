@@ -1,5 +1,5 @@
 # SaranyaSa23ECE013
-(A) Saranya Sa , (B) 23ECE013 , (C) https://saranyasa-siza.github.io/SaranyaSa/
+(A) Saranya Sa , (B) 23ECE013 , (C) http://127.0.0.1:5500/index.html
 
 ## 📌 About the Project
 
